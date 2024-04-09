@@ -7,7 +7,7 @@ const TopSection = () => {
     const floatingComponent = () => {
         return (
             <div className='w-full md:max-w-2xl h-screen max-h-72 flex flex-col justify-center items-start px-5 py-5 md:left-0 md:bottom-0 md:z-10  md:absolute md:my-6  md:mx-6 bg-gradient-to-r from-custom-green to-custom-blue' >
-                <div className='font-bold text-5xl text-white text-left '>
+                <div className='font-bold text-4xl md:text-5xl text-white text-left '>
                     We crush your competitors, goals, And sales records - without the B.S.
                 </div>
 
