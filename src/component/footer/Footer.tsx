@@ -61,7 +61,7 @@ const Footer = () => {
 
             <div className='max-w-lg w-full'>
                 <hr />
-                <div className='pt-2 text-sm'>
+                <div className='pt-2 text-sm flex justify-center'>
                     <button className='px-5'>
                         Privacy Policy
                     </button>
